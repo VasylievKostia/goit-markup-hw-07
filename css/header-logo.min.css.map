@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,AAAC,CACT,eAAe,CAAE,IAAI,CACrB,KAAK,CAAE,OAAO,CACd,WAAW,CAAE,OAAO,CACpB,WAAW,CAAE,GAAG,CAChB,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,IAAI,CACjB,KAAK,CAAE,mBAAmB,CAC1B,YAAY,CAAE,IAAI,CAClB,WAAW,CAAE,IAAI,CACjB,cAAc,CAAE,IAAI,CACvB",
+    "sources": [
+        "../sass/components/header-logo.scss"
+    ],
+    "names": [],
+    "file": "header-logo.min.css"
+}
